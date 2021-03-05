@@ -1,0 +1,6 @@
+{
+    "prettier.disableLanguages": [
+        "editor.formatOnSave"
+    ],
+    "vetur.format.defaultFormatter.html": "js-beautify-html"
+}
